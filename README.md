@@ -92,4 +92,4 @@ gv.extension('bokeh') this was added to the vacationpy file for both hvplot grap
 
 #Install geoviews
 !pip install geoviews used this code provided by brandon when i switched to google notebook and presumably it fixed the problem i was facing in jupyter lab?? very grateful to make progress there. 
-another learning assistant helped me with proofreading the code for the hvplots, adding the correct arguments (particularly the scale, OSM and hover_cols). also helped me with the for loop in weatherpy, I was using the wrong syntax for the city_url. 
+another learning assistant helped me with proofreading the code for the hvplots, adding the correct arguments (particularly the scale, OSM and hover_cols). also helped me with the for loop in weatherpy, I was using the wrong syntax for the city_url. also how to use a filter param with a circle.
